@@ -22,3 +22,4 @@
 > |  7  | [CPP_06] | Scalar conversion       | C++ casts  |
 > |  8  | [CPP_07] | A few functions and class template       | C++ templates   |
 > |  9  | [CPP_08] | Playing with templates and containers      | Templated containers, iterators, algorithms |
+> |  10 | [CPP_09] | List, Stack, Vector, Map      | btc finder, RPN Calculator, MergeSort |
